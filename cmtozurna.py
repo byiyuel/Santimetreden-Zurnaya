@@ -8,7 +8,7 @@ cls = lambda: os.system('cls')
 
 #For input/Girdiyi almak için
 print("Choose a language/Bir dil seç! (TR or ENG) ")
-lang = (input()).lower()
+lang = input().lower()
 
 time.sleep(0.2)
 
