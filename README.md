@@ -1,6 +1,4 @@
 # cmtozurna
  #Centimeter to Zurna
 
- It's an app for convert centimeter to Zurna.
-
-Niye ciddi?
+ Santimetreden zurna uzunluk birimine çevirme aracı
