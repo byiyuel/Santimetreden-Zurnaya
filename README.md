@@ -1,4 +1,4 @@
 # cmtozurna
- #Centimeter to Zurna
+ #Santimetreden Zurnaya
 
- Santimetreden zurna uzunluk birimine çevirme aracı
+ Santimetreden Zurna uzunluk birimine çevirme aracı
